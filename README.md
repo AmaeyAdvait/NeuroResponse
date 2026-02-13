@@ -1,7 +1,7 @@
 # NeuroResponse
 Auditory Nerve Fiber Simulation and Causal Wiener Feedback Filter model in MATLAB
 
-This project performs neural encoding of auditory stimuli using the Zilany-Bruce-Carney auditory nerve fiber model(2009). This is a comprehnesive simulation consisting of tuning curves, rate-intensity responses, Psth's of speech signals, spectrograms showing phase locking etc. These are then analysed to design a Causal Wiener Feedback Filter(CWFF) model to restore the phase locking strength and cochlear amplification of a deaf ear.
+This is a project implemented as a part of the course: 'Neuronal Coding of Sensory Information(EC60004)', IIT Kharagpur. The project performs neural encoding of auditory stimuli using the Zilany-Bruce-Carney auditory nerve fiber model(2009) and is a comprehnesive simulation consisting of tuning curves, rate-intensity responses, Psth's of speech signals, spectrograms showing phase locking etc. These are then analysed to design a Causal Wiener Feedback Filter(CWFF) model aimed at restoring the phase locking strength and cochlear amplification of a deaf ear.
 
 How to Run:
 
