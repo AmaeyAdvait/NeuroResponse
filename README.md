@@ -32,5 +32,7 @@ Limitations of the CWFF model:
 - It is computationally and electronically more energy expensive than the brain as a system.
 
 Amaey Advait
+
 IIT Kharagpur
+
 February 2026
