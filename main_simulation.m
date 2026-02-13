@@ -432,7 +432,6 @@ Psth_fft_deaf = compare(cohc_deaf,BF_bank_deaf,fig_start_1+fig_start_2);
 % Slightly convoluted logic for the figures but the general idea is have 
 % a contiguous figure output throughout.
 
-
 % Extra Credit(Run only after uncommenting both blocks above)
 
 % 3a. Application of simple selective amplification
@@ -483,7 +482,6 @@ compare(cohc_rec, BF_bank_normal, fig_start_1+fig_start_2+fig_start_3);
 % 3b. Causal Wiener Feedback Filter (WFF) model
 
 fig_start_4 = 6;
-
 cohc_recn = cwff_model(cohc_deaf, cohc_normal);
 
 compare(cohc_recn, BF_bank_normal, ...
