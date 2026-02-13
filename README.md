@@ -1,5 +1,4 @@
 # NeuroResponse
-Auditory Nerve Fiber Simulation and Causal Wiener Feedback Filter model in MATLAB
 
 This is a project implemented as a part of the course: 'Neuronal Coding of Sensory Information(EC60004)', IIT Kharagpur. 
 
