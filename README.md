@@ -31,8 +31,7 @@ Limitations of the CWFF model:
 - Wiener Filter implicitly assumes that all noise processes can be unified by passing AWGN through lumped element filters. This is a narrow way of looking at noise, which may not hold true in many scenarios in the auditory nerve fiber
 - It is computationally and electronically more energy expensive than the brain as a system.
 
-Amaey Advait
 
-IIT Kharagpur
-
-February 2026
+Amaey Advait  
+IIT Kharagpur  
+February 2026  
