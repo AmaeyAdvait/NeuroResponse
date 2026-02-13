@@ -21,9 +21,13 @@ Results:
 
 A 1.5-fold improvement in cochlear gain along with a stong phase locking was observed with the CWFF model.
 
-![Normal Ear](figures/fig_1.png)
-![Deaf Ear](figures/fig_2.png)
-![Restored Ear](figures/fig_3.png)
+![Normal Ear Spectrogram](figures/normal_ear_spectrogram.jpg)
+![Deaf Ear Spectrogram](figures/deaf_ear_spectrogram.jpg)
+![Reconstructed Ear Spectrogram](figures/reconstructed_ear_spectrogram.jpg)
+
+![Normal Ear Phase Locking](figures/normal_ear_phase_locking.jpg)
+![Deaf Ear Phase Locking](figures/deaf_ear_phase_locking.jpg)
+![Reconstructed Ear Phase Locking](figures/reconstructed_ear_phase_locking.jpg)
 
 Limitations of the CWFF model:
 
