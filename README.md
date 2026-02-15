@@ -6,7 +6,7 @@ The project performs neural encoding of auditory stimuli using the Zilany-Bruce-
 
 How to Run:
 
-- Add Zilany-Bruce-Carney model(2009) to MATLAB path. [Link]https://www.urmc.rochester.edu/labs/carney/publications-code/auditory-models
+- Add Zilany-Bruce-Carney model(2009) to MATLAB path. [Link](https://www.urmc.rochester.edu/labs/carney/publications-code/auditory-models)
 - Add fivewo.wav in project directory
 - Run main_simulation
   
